@@ -8,3 +8,14 @@ C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TP
 C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
 C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
 C:\Users\Emilio\Documents\TP Programacion 3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe.config
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\bin\Debug\TPPROG3.pdb
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csprojAssemblyReference.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.AcercaDe.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.menu_principal.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.Properties.Resources.resources
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.GenerateResource.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.exe
+C:\Users\Emilio\Documents\TPPROG3\TPPROG3\TPPROG3\TPPROG3\obj\Debug\TPPROG3.pdb

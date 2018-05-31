@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace TPPROG3
 {
- public partial class menu_principal : Form
+ public partial class AcercaDe : Form
  {
-  public menu_principal()
+  public AcercaDe()
   {
    InitializeComponent();
-  }
-
-  private void salirToolStripMenuItem_Click(object sender, EventArgs e)
-  {
-   Close();
   }
  }
 }
