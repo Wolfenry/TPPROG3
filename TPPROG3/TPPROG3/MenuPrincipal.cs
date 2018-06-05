@@ -32,5 +32,30 @@ namespace TPPROG3
    AcercaDe Acerca = new AcercaDe();
    Acerca.Show();
   }
+
+  private void agregarEquipoToolStripMenuItem_Click(object sender, EventArgs e)
+  {
+
+  }
+
+  private void modificarDatosToolStripMenuItem1_Click(object sender, EventArgs e)
+  {
+
+  }
+
+  private void porIDToolStripMenuItem_Click(object sender, EventArgs e)
+  {
+
+  }
+
+  private void porNDeSerieToolStripMenuItem_Click(object sender, EventArgs e)
+  {
+
+  }
+
+  private void verListadoToolStripMenuItem1_Click(object sender, EventArgs e)
+  {
+
+  }
  }
 }
