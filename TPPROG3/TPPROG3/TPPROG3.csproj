@@ -51,6 +51,36 @@
     <Compile Include="AcercaDe.Designer.cs">
       <DependentUpon>AcercaDe.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmAgregarCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCli.Designer.cs">
+      <DependentUpon>frmAgregarCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarCliXDNI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarCliXDNI.Designer.cs">
+      <DependentUpon>frmBuscarCliXDNI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarCliXNombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarCliXNombre.Designer.cs">
+      <DependentUpon>frmBuscarCliXNombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarCli.Designer.cs">
+      <DependentUpon>frmModificarCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerListadoCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerListadoCli.Designer.cs">
+      <DependentUpon>frmVerListadoCli.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +91,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AcercaDe.resx">
       <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCli.resx">
+      <DependentUpon>frmAgregarCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCliXDNI.resx">
+      <DependentUpon>frmBuscarCliXDNI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCliXNombre.resx">
+      <DependentUpon>frmBuscarCliXNombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarCli.resx">
+      <DependentUpon>frmModificarCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerListadoCli.resx">
+      <DependentUpon>frmVerListadoCli.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>

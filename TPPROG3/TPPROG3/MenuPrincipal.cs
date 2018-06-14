@@ -57,5 +57,15 @@ namespace TPPROG3
   {
 
   }
- }
+
+        private void agregarClienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void modificarDatosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
